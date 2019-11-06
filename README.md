@@ -1,2 +1,2 @@
 # simpleBlogOnReact
- simple blog page using ReactJS
+ Simple blog post page with start modal window using ReactJS
